@@ -13,5 +13,6 @@ my progress into my [Twitter](https://twitter.com/EmmanuelLykos) account
 
 I set a goal to learn to make myself familiar with PyTorch
 framework after I learned Keras, so today I made myself 
-familiar with tensor handling and I took a look at 
-creating a simple neural network through the 60-Minute Blitz.
+familiar with tensor handling, I implemented R-Squared using tensors
+and I took a look at creating a simple neural network through the 
+60-Minute Blitz.
