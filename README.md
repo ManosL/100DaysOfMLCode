@@ -23,3 +23,11 @@ I continued  PyTorch 60-Minute Blitz and I finally implemented
 the CIFAR10 classifier(with 50% accuracy) and an MNIST 
 Classifier(around 97% accuracy) using ConvNets. Moreover, 
 I created my own transform.
+
+## Day 3
+
+Today I wanted to deal with the practical part of Reinforcement 
+Learning(RL), thus, I continued the [Easy21](https://www.davidsilver.uk/wp-content/uploads/2020/03/Easy21-Johannes.pdf)
+Project of David Silver's 
+RL course and I implemented the Sarsa(λ) algorithm. 
+I will upload the code when I finish the question.
