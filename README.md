@@ -31,3 +31,11 @@ Learning(RL), thus, I continued the [Easy21](https://www.davidsilver.uk/wp-conte
 Project of David Silver's 
 RL course and I implemented the Sarsa(λ) algorithm. 
 I will upload the code when I finish the question.
+
+## Day 4
+
+I completed the TD-Learning question of Easy 21 Project by implementing Sarsa(λ) algorithm
+and drawing the necessary graphs. However might it seem little, yesterday I wrote the
+Forward view Sarsa(λ) while the project asking to implement the backward view. Tomorrow
+I will probably finish the question about Value Function Approximation, thus, all the Easy21
+project and it will be uploaded also to a separate repo.
