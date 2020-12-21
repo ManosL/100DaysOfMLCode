@@ -39,3 +39,9 @@ and drawing the necessary graphs. However might it seem little, yesterday I wrot
 Forward view Sarsa(λ) while the project asking to implement the backward view. Tomorrow
 I will probably finish the question about Value Function Approximation, thus, all the Easy21
 project and it will be uploaded also to a separate repo.
+
+## Day 5
+
+I completed the coding on Easy21 Project. The code is on the corresponding
+directory on 100DaysMLOfCode repo, but I will upload it on another repo
+where I will keep all my RL Projects and the code will be better
