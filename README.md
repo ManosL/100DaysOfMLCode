@@ -45,3 +45,12 @@ project and it will be uploaded also to a separate repo.
 I completed the coding on Easy21 Project. The code is on the corresponding
 directory on 100DaysMLOfCode repo, but I will upload it on another repo
 where I will keep all my RL Projects and the code will be better
+
+## Day 6
+
+Today I made myself familiar with OpenAI
+ Gym and I tried to implement an RL Algorithm that could solve the CartPole problem. 
+But, MC and Semi-Gradient Sarsa with linear approximation did not work. I believe that
+this happens because my features are not good because I cannot find another reason that
+neither bootrapping and not bootstrapping do not work. 
+The fixed code will be uploaded in GitHub on another day.
