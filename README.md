@@ -54,3 +54,23 @@ But, MC and Semi-Gradient Sarsa with linear approximation did not work. I believ
 this happens because my features are not good because I cannot find another reason that
 neither bootrapping and not bootstrapping do not work. 
 The fixed code will be uploaded in GitHub on another day.
+
+## Day 7
+
+I tried to see why my code about solving CartPole was not working. I fixed some bugs
+that I had however, the results were not encouraging at all because still my agent
+does not learn. I tried the following adjustments:
+
+1. Having features for Q(S,A) the observation and the number of action was wrong
+thus I did one-hot encoded the action feature but this did not work neither having
+4 weights for each action worked and the features will be the observations.
+
+2. Normalizing the weights at each step.
+
+3. Rounding the features.
+
+4. Decaying the policy by a constant factor but I saw that exploration did not helped at all,
+because when epsilon became low the agent did not seem to exploit the knowledge that he
+obtained through exploration.
+
+I will upload my code only for someone to see the implemented algorithms.
