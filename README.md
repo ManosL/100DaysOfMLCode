@@ -74,3 +74,7 @@ because when epsilon became low the agent did not seem to exploit the knowledge 
 obtained through exploration.
 
 I will upload my code only for someone to see the implemented algorithms.
+
+## Day 8
+
+Back in action!!! Today, I started working on Berkeley's Pacman Project 3 and I solved the first 3 questions!!!
