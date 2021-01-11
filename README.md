@@ -78,3 +78,7 @@ I will upload my code only for someone to see the implemented algorithms.
 ## Day 8
 
 Back in action!!! Today, I started working on Berkeley's Pacman Project 3 and I solved the first 3 questions!!!
+
+## Day 9 
+
+Today I continued UC Berkeley's Pacman Project 3 and I reached  Question 7 where I still have to figure out why I get a Timeout exception at that question.
