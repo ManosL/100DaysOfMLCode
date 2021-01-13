@@ -82,3 +82,8 @@ Back in action!!! Today, I started working on Berkeley's Pacman Project 3 and I 
 ## Day 9 
 
 Today I continued UC Berkeley's Pacman Project 3 and I reached  Question 7 where I still have to figure out why I get a Timeout exception at that question.
+
+## Day 10
+
+Today I completed Pacman Project 3 and read about Isolation Forest in
+order to implement it into the next days.
