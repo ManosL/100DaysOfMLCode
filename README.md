@@ -87,3 +87,10 @@ Today I continued UC Berkeley's Pacman Project 3 and I reached  Question 7 where
 
 Today I completed Pacman Project 3 and read about Isolation Forest in
 order to implement it into the next days.
+
+## Day 11
+
+At last I did an implementation of a paper and it is the first one for this 
+challenge. I implemented an Isolation Forest whose paper is [here](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf?q=isolation-forest)
+. Also, I evaluated its performance on a dummy dataset and on http dataset.
+The code is on Day 11 directory.
